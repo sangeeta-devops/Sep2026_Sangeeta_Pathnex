@@ -2,4 +2,5 @@
 1 hour - git code
 2 hours - English speaking/watching movies
 1 hour - notes
-2 hours - subnet,domain,ip v4 
+2 hours - subnet,domain,ip v4
+1 hour - video 
